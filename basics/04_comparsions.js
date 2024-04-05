@@ -26,6 +26,7 @@ For example, 1 == '1' would return true because JavaScript coerces the string '1
 This type of comparison can lead to unexpected results, especially when dealing with different data types.
 === (Strict Equality Operator):
 
+
 The === operator, also known as the strict equality operator, checks for equality without performing type conversion.
 It compares both the value and the data type of the operands.
 For the expression to return true, both the value and the data type of the operands must be the same.
