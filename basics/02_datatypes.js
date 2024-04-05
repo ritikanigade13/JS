@@ -18,8 +18,8 @@ boolean --> true or false
 null --> standalone value, you can assign it. ie it hase empty value.
 undefined --> when you did not assign value but declared a variable
 symbol --> to find uniqueness it is used
-
+NAN -->not a number
 object
 */
 
-console.log(typeof null);//--> null provides object
+console.log(typeof -1/2);//--> null provides object
