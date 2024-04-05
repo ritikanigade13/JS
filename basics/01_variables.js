@@ -15,7 +15,7 @@ console.log(accountId);
 console.table([accountId, accountEmail, accountPassword, accountCity,accountState]);
 /*
 prefer not to use var because of block and functional scope
-outpt:
+outpt: of variables
 ┌─────────┬────────────────────┐
 │ (index) │       Values       │
 ├─────────┼────────────────────┤
